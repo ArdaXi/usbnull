@@ -1,0 +1,3 @@
+[submodule "opchlib"]
+	path = opchlib
+	url = https://github.com/open-project/kicadlibrary.git
