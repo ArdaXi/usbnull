@@ -1,0 +1,101 @@
+Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = Tue 06 May 2014 15:48:24 CEST
+
+BeginCmp
+TimeStamp = /5367DE38;
+Reference = C1;
+ValeurCmp = 1.0U;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /5367DD37;
+Reference = C2;
+ValeurCmp = 0.1U;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /5367E222;
+Reference = C3;
+ValeurCmp = 0.1U;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /5367E53F;
+Reference = C4;
+ValeurCmp = 0.1U;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /5367E502;
+Reference = C5;
+ValeurCmp = 0.1U;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /5367E50E;
+Reference = C6;
+ValeurCmp = 1.0U;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /5367B104;
+Reference = IC1;
+ValeurCmp = CP2102;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /5367A039;
+Reference = IC2;
+ValeurCmp = 4N25;
+IdModule  = DIP-6__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /5367A048;
+Reference = IC3;
+ValeurCmp = 4N25;
+IdModule  = DIP-6__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /5367E4F6;
+Reference = IC4;
+ValeurCmp = CP2102;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /5367A07D;
+Reference = R1;
+ValeurCmp = 220K;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /5367E4F0;
+Reference = R2;
+ValeurCmp = 220K;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /5368E4B2;
+Reference = USB1;
+ValeurCmp = USBA;
+IdModule  = USB_A;
+EndCmp
+
+BeginCmp
+TimeStamp = /5367E4FC;
+Reference = USB2;
+ValeurCmp = MBUSB;
+IdModule  = ;
+EndCmp
+
+EndListe
