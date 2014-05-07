@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = Tue 06 May 2014 15:48:24 CEST
+Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = Tue 06 May 2014 19:04:23 CEST
 
 BeginCmp
 TimeStamp = /5367DE38;
@@ -46,7 +46,7 @@ BeginCmp
 TimeStamp = /5367B104;
 Reference = IC1;
 ValeurCmp = CP2102;
-IdModule  = ;
+IdModule  = CP2102;
 EndCmp
 
 BeginCmp
@@ -67,7 +67,7 @@ BeginCmp
 TimeStamp = /5367E4F6;
 Reference = IC4;
 ValeurCmp = CP2102;
-IdModule  = ;
+IdModule  = CP2102;
 EndCmp
 
 BeginCmp
@@ -85,17 +85,17 @@ IdModule  = SM1206;
 EndCmp
 
 BeginCmp
+TimeStamp = /536907F8;
+Reference = U1;
+ValeurCmp = MICRO-B_USB;
+IdModule  = MICRO-B_USB;
+EndCmp
+
+BeginCmp
 TimeStamp = /5368E4B2;
 Reference = USB1;
 ValeurCmp = USBA;
 IdModule  = USB_A;
-EndCmp
-
-BeginCmp
-TimeStamp = /5367E4FC;
-Reference = USB2;
-ValeurCmp = MBUSB;
-IdModule  = ;
 EndCmp
 
 EndListe
